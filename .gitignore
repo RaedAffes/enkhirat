@@ -46,3 +46,11 @@ android/app/release
 
 # Visual Studio
 .vs/
+
+# Secrets and credentials
+enkhirat_app/assets/service_account.json
+.env
+.env.*
+*.pem
+*.key
+service_account.json
